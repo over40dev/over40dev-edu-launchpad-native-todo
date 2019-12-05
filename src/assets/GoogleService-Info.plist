@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>194508018176-2m6i4s66g5p7f5iccqtsn8mo2e2bsg3r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.194508018176-2m6i4s66g5p7f5iccqtsn8mo2e2bsg3r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD1nrblVINa_fakdWPmlBSAx0qrviiRjf4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>194508018176</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>dev.over40.todo</string>
+	<key>PROJECT_ID</key>
+	<string>launchpad-angular-ionic</string>
+	<key>STORAGE_BUCKET</key>
+	<string>launchpad-angular-ionic.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:194508018176:ios:de93b02388daa99ad37ee5</string>
+	<key>DATABASE_URL</key>
+	<string>https://launchpad-angular-ionic.firebaseio.com</string>
+</dict>
+</plist>

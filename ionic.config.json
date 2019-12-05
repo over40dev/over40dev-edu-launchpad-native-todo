@@ -1,5 +1,7 @@
 {
   "name": "launchpad-todo",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "194508018176",
+    "firebase_url": "https://launchpad-angular-ionic.firebaseio.com",
+    "project_id": "launchpad-angular-ionic",
+    "storage_bucket": "launchpad-angular-ionic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194508018176:android:fa03467e2a52da9bd37ee5",
+        "android_client_info": {
+          "package_name": "dev.over40.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194508018176-n7rvppcaifmc407k7lru8549pvlfpejd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLWaMgaGRbo9zIL0Q3lDzJbzwslnRldmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194508018176-n7rvppcaifmc407k7lru8549pvlfpejd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "194508018176-2m6i4s66g5p7f5iccqtsn8mo2e2bsg3r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.over40.todo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
